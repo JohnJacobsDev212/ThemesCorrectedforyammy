@@ -1,10 +1,10 @@
 {
-    "name": "ClearVision v1.2.6",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "name": "Yammy Mobile",
+    "description": "For Yammy On Mobile",
 	"authors": [
       {
-         "name": "Taki_Shiwa, edited by Sunny",
-         "id": "466968658997149706"
+         "name": "Kenneth",
+         "id": "1325983695676506163"
       }
     ],
     "semanticColors": {
@@ -516,7 +516,7 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/dark.jpg",
+        "url": "https://cdn.discordapp.com/attachments/1440658139417415691/1473454499501707444/image.png?ex=699644f0&is=6994f370&hm=333c7d5035f32603b335aba04f9fa3b3f69c9472c875ea0e59b423fe1b6569c7&",
 	"alpha": 1
     },
     "plus": {
